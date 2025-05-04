@@ -4,12 +4,7 @@
 
 ---
 
-![#2d3436](https://via.placeholder.com/75/2d3436?text=+)
-![#35628d](https://via.placeholder.com/75/35628d?text=+)
-![#636e72](https://via.placeholder.com/75/636e72?text=+)
-![#FF0000](https://via.placeholder.com/75/afafaf?text=+)
-![#dfe6e9](https://via.placeholder.com/75/dfe6e9?text=+)
-![#ecf0f1](https://via.placeholder.com/75/ecf0f1?text=+)
+![Color Palette](colorpalette.png)
 
 ![Static Badge](https://img.shields.io/badge/XxZeroxX-FFEF00?style=for-the-badge&label=Author&labelColor=485460)
 ![Static Badge](https://img.shields.io/badge/v1.0.0-484C89?style=for-the-badge&label=RELEASE&labelColor=485460)
